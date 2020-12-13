@@ -1,0 +1,13 @@
+{
+  "temperature": 20,
+  "humidity": 35,
+  "solar-flare": false,
+  "storm": false,
+  "area-map": [
+    [ "dirt", "dirt", "dirt", "water", "dirt" ],
+    [ "dirt", "dirt", "water", "water", "water" ],
+    [ "dirt", "dirt", "dirt", "water", "dirt" ],
+    [ "dirt", "dirt", "dirt", "dirt", "dirt" ],
+    [ "dirt", "dirt", "dirt", "dirt", "dirt" ]
+  ]
+}

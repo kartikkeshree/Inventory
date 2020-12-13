@@ -1,0 +1,18 @@
+{
+    "rover": {
+        "location": {
+            "row": 0,
+            "column": 0
+        },
+        "battery": 10,
+        "inventory": []
+    },
+    "environment": {
+        "temperature": 60,
+        "humidity": 65,
+        "solar-flare": false,
+        "storm": false,
+        "terrain": "dirt",
+        "battery": 2
+    }
+}

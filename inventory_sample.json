@@ -1,0 +1,14 @@
+[{
+    "name:":"water-sample",
+    "units":2,
+    "proirity":2
+},{
+    "name:":"rock-sample",
+    "units":3,
+    "proirity":3
+},{
+    "name:":"strom-shield",
+    "units":2,
+    "proirity":1
+}]
+
